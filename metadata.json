@@ -1,0 +1,8 @@
+{
+  "name": "Creative Pulse Portfolio",
+  "description": "A premium, high-performance freelance portfolio featuring an AI-powered assistant, interactive project gallery, and sleek glassmorphism design.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
